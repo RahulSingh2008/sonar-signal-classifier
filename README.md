@@ -185,8 +185,8 @@ print("Test accuracy:", accuracy_score(test_pred, Y_test))
 
 | Dataset | Accuracy |
 |---------|----------|
-| 🏋️ Training data | `XX.XX %` |
-| 🧪 Test data | `XX.XX %` |
+| 🏋️ Training data | `0.834 %` |
+| 🧪 Test data | `0.761 %` |
 
 > Replace the values above with the numbers printed by your script.
 
