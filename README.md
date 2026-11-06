@@ -2,7 +2,7 @@
 
 # 🔱 Sonar Rock vs Mine: From Raw Sonar Signals to a Reliable Classifier
 
-> **<Hackathon Name> | 24-Hour Live Hackathon | Machine Learning & Signal Classification**
+> **<Hackathon ML-hackathon> | 24-Hour Live Hackathon | Machine Learning & Signal Classification**
 >
 > *Developed for <College / Event> Hackathon Challenge*
 
