@@ -253,10 +253,17 @@ else:
 
 ## 👥 Team
 
-| Name | Role | account |
-|------|------|--------_|
-| `SHIVAM KUMAR` | BACKEND | @officegitshivam |
-| `RAHUL SINGH` | FRONTEND | @rahulsingh2008 |
+| Name | Role | GitHub |
+|------|------|--------|
+| `Your Name` | Developer | [@officegitshivam](https://github.com/officegitshivam) |
+| `Teammate` | Developer | [@rahulsingh2008](https://github.com/rahulsingh2008) |
+
+---
+
+<p align="center">
+  ⭐ If you found this project helpful, give it a star!<br>
+  Made with ❤️ and Python
+</p>
 
 ---
 
