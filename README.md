@@ -253,10 +253,10 @@ else:
 
 ## 👥 Team
 
-| Name | Role |
-|------|------|
-| `SHIVAM KUMAR` | BACKEND |
-| `RAHUL SINGH` | FRONTEND |
+| Name | Role | account |
+|------|------|--------_|
+| `SHIVAM KUMAR` | BACKEND | @officegitshivam |
+| `RAHUL SINGH` | FRONTEND | @rahulsingh2008 |
 
 ---
 
