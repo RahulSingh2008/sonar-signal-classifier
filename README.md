@@ -251,7 +251,4 @@ else:
 
 ---
 
-<p align="center">
-  ⭐ If you found this project helpful, give it a star!<br>
-  Made with ❤️ and Python
-</p>
+
