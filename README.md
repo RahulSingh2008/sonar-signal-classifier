@@ -255,8 +255,8 @@ else:
 
 | Name | Role |
 |------|------|
-| `Your Name` | Developer |
-| `Teammate` | Developer |
+| `SHIVAM KUMAR` | BACKEND |
+| `RAHUL SINGH` | FRONTEND |
 
 ---
 
