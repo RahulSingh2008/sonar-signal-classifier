@@ -2,9 +2,9 @@
 
 # 🔱 Sonar Rock vs Mine: From Raw Sonar Signals to a Reliable Classifier
 
-> **<Hackathon ML-hackathon> | 24-Hour Live Hackathon | Machine Learning & Signal Classification**
+> **<Hackathon ML-hackathon> | 10-Hour Live Hackathon | Machine Learning & Signal Classification**
 >
-> *Developed for <College / Event> Hackathon Challenge*
+> *Developed for DECODEML Hackathon Challenge*
 
 ![Python](https://img.shields.io/badge/Python-3.10.11-3776AB?style=flat-square)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.4.2-F7931E?style=flat-square)
