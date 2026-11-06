@@ -12,3 +12,8 @@
 ![Dataset](https://img.shields.io/badge/Dataset-UCI%20Sonar-2E8B57?style=flat-square)
 ![Hardware](https://img.shields.io/badge/Hardware-<your%20CPU%2FGPU>-76B900?style=flat-square)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20OS-0078D6?style=flat-square)
+
+## 1. Objective
+This project builds a machine learning system that classifies sonar returns as either a Rock (R) or a Mine (M). Sonar echoes from a metal cylinder and a similarly shaped rock differ only subtly, and the signal is noisy and high-dimensional (60 frequency-band features), so manual interpretation needs trained experts and is slow. Our goal is to automate this decision with a model that is accurate, explainable, and reproducible.
+
+The system trains and compares several algorithms on the UCI Sonar dataset, evaluates them on held-out data, and saves the final pipeline. A web interface lets a user enter new readings and get a prediction with a confidence score. Because a missed mine is more dangerous than a false alarm, we also pay particular attention to recall on the Mine class.
