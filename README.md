@@ -23,22 +23,6 @@ The system trains and compares several algorithms on the UCI Sonar dataset, eval
 - 208 samples (111 Mine, 97 Rock), 60 features (energy per frequency band, 0.0 to 1.0)
 - Source: <link to UCI or Kaggle>. No other datasets were used.
 
-<h1 align="center">🪨 RockVsMine 💣</h1>
-
-<p align="center">
-  <b>Can a machine tell a rock from a mine using only sonar signals?</b><br>
-  A beginner-friendly Machine Learning project built with Python.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/NumPy-array%20math-013243?logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Pandas-dataframes-150458?logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikitlearn&logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/Task-Binary%20Classification-green" alt="Task">
-</p>
-
----
 
 ## 📌 Table of Contents
 
@@ -255,8 +239,8 @@ else:
 
 | Name | Role | GitHub |
 |------|------|--------|
-| `Your Name` | Developer | [@officegitshivam](https://github.com/officegitshivam) |
-| `Teammate` | Developer | [@rahulsingh2008](https://github.com/rahulsingh2008) |
+| `SHIVAM KUMAR` | BACKEND | [@officegitshivam](https://github.com/officegitshivam) |
+| `RAHUL SINGH` | FRONTEND | [@rahulsingh2008](https://github.com/rahulsingh2008) |
 
 ---
 
