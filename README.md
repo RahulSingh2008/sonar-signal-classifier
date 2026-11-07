@@ -19,7 +19,7 @@ The system trains and compares several algorithms on the UCI Sonar dataset, eval
 ## 2. Dataset
 - UCI Connectionist Bench (Sonar, Mines vs. Rocks)
 - 208 samples (111 Mine, 97 Rock), 60 features (energy per frequency band, 0.0 to 1.0)
-- Source: <link to UCI or Kaggle>. No other datasets were used.
+- Source: <data/sonar data.csv>. No other datasets were used.
 
 
 ## 📌 Table of Contents
