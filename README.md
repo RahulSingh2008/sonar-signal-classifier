@@ -105,12 +105,21 @@ Each row = one sonar reading of an object.
 ## 🗂️ Project Structure
 
 ```
-RockVsMine/
-│
-├── sonar_data.csv        # Dataset
-├── rock_vs_mine.py       # Main ML script
-├── requirements.txt      # Dependencies
-└── README.md             # You are here 🙂
+.
+├── Sonar-app/
+│   ├── static/
+│   │   ├── Web.html          # Frontend web page
+│   │   ├── brain.js          # Client-side logic
+│   │   └── style.css         # Styling for the web page
+│   ├── app.py                # Backend application entry point
+│   ├── requirements.txt      # Python dependencies
+│   └── sonar data.csv        # Dataset used by the app
+├── data/
+│   └── sonar data.csv       # Original dataset
+├── .gitignore                # Git ignore rules
+├── LICENSE                   # Project license
+├── README.md                 # Project overview
+└── sonarlab_documentation.pdf  # Detailed project documentation
 ```
 
 ---
@@ -124,7 +133,7 @@ pip install numpy pandas scikit-learn
 
 **2. Run the project**
 ```bash
-python rock_vs_mine.py
+python app.py
 ```
 
 ---
