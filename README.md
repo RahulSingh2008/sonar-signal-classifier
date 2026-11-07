@@ -3,6 +3,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
   <img alt="Sonar Signal Classifier" src="art/header-light.png">
 </picture>
+
 # 🔱 Sonar Rock vs Mine: From Raw Sonar Signals to a Reliable Classifier
 
 >
