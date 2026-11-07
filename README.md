@@ -2,7 +2,6 @@
 
 # 🔱 Sonar Rock vs Mine: From Raw Sonar Signals to a Reliable Classifier
 
-> **<Hackathon ML-hackathon> | 10-Hour Live Hackathon | Machine Learning & Signal Classification**
 >
 > *Developed for DECODEML Hackathon Challenge*
 
