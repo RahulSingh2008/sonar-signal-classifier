@@ -9,7 +9,6 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.4.2-F7931E?style=flat-square)
 ![Flask](https://img.shields.io/badge/Flask-3.0.3-000000?style=flat-square)
 ![Dataset](https://img.shields.io/badge/Dataset-UCI%20Sonar-2E8B57?style=flat-square)
-![Hardware](https://img.shields.io/badge/Hardware-<your%20CPU%2FGPU>-76B900?style=flat-square)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20OS-0078D6?style=flat-square)
 
 ## 1. Objective
